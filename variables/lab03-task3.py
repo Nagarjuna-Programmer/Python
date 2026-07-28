@@ -24,3 +24,17 @@ a, b = b, a
 print("\nAfter Swapping using Tuple Unpacking:")
 print("a =", a)
 print("b =", b)
+"""
+Output:
+Before Swapping:
+a = 10
+b = 20
+
+After Swapping using Temporary Variable:
+a = 20
+b = 10
+
+After Swapping using Tuple Unpacking:
+a = 10
+b = 20
+"""

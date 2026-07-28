@@ -12,3 +12,7 @@ x = 10          # Statement
 result = x + 5  # Expression
 
 print("Result =", result)
+"""
+Output:
+Result = 15
+"""

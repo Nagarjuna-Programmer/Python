@@ -32,3 +32,12 @@ test_names = [
 
 for item in test_names:
     print(item, ":", is_valid_identifier(item))
+    """
+    Output:
+    value : True
+_hidden : True
+2value : False
+class : False
+my_var : True
+my-var : False
+    """

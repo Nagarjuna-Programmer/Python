@@ -15,3 +15,15 @@ print("\nSecond Assignment:")
 print("a =", a)
 print("b =", b)
 print("c =", c)
+"""
+Output:
+First Assignment:
+a = 10
+b = 20
+c = 30
+
+Second Assignment:
+a = 100
+b = 100
+c = 100
+"""

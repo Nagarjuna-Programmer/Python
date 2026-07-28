@@ -18,3 +18,11 @@ print("Constant:", PI_VALUE)
 print("Function:", display())
 print("Class:", Student)
 print("Underscore Variable:", my_value)
+"""
+Output:
+Variable: Nagarjuna
+Constant: 3.14159
+Function: Python Function
+Class: <class '__main__.Student'>
+Underscore Variable: 100
+"""

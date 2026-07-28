@@ -14,3 +14,13 @@ for i in range(1, 6):
 
 # Print Statement
 print("Program Completed")
+"""
+Output:
+Positive Number
+Value: 1
+Value: 2
+Value: 3
+Value: 4
+Value: 5
+Program Completed
+"""

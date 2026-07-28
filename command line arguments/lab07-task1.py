@@ -7,3 +7,7 @@ if len(sys.argv) != 2:
     print("Usage: python greet.py <name>")
 else:
     print("Hello,", sys.argv[1] + "!")
+    '''
+    output:
+    Usage: python greet.py <name>
+    '''

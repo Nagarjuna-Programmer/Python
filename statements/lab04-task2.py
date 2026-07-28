@@ -17,3 +17,8 @@ sum_value = (
 )
 
 print("Total using parentheses:", sum_value)
+"""
+Output:
+Total using line continuation: 150
+Total using parentheses: 150
+"""

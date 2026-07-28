@@ -12,3 +12,11 @@ print("Name: {} Marks: {}".format(name, marks))
 
 # Method 3: f-string
 print(f"Name: {name} Marks: {marks}")
+"""
+Output:
+Enter your name: T.Nagarjuna
+Enter your marks: 545
+Name: T.Nagarjuna Marks: 545
+Name: T.Nagarjuna Marks: 545
+Name: T.Nagarjuna Marks: 545
+"""

@@ -6,3 +6,9 @@ marks = list(map(int, input("Enter 3 subject marks: ").split()))
 average = sum(marks) / 3
 
 print("Average = {:.2f}".format(average))
+"""
+Output:
+Enter 3 subject marks: 85
+Average = 28.33
+
+"""

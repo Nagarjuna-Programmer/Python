@@ -9,3 +9,8 @@ if keyword.iskeyword(word):
     print(word, "is a Python keyword.")
 else:
     print(word, "is NOT a Python keyword.")
+    """
+    Output:
+    Enter a word: if
+if is a Python keyword.
+    """

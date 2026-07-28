@@ -12,3 +12,9 @@ circumference = 2 * pi * radius
 print("Radius =", radius)
 print("Area =", area)
 print("Circumference =", circumference)
+"""
+Output:
+Radius = 7
+Area = 153.93791
+Circumference = 43.98226
+"""

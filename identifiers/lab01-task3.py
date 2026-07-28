@@ -6,3 +6,6 @@ marks = 80
 
 print("Marks =", Marks)
 print("marks =", marks)
+"""
+Output:
+"""
