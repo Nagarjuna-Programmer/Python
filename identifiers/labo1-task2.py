@@ -26,3 +26,12 @@ for name in identifiers:
         print(name, "-> Valid")
     elif name == "total$":
         print(name, "-> Invalid (contains '$')")
+'''
+ ourput:
+2value -> Invalid (starts with a digit)
+value_2 -> Valid
+_hidden -> Valid
+class -> Invalid (Python keyword)
+my-var -> Invalid (contains '-')
+MyClass -> Valid
+total$ -> Invalid (contains '$')'''

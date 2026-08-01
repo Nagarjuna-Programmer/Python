@@ -16,3 +16,8 @@ parser.add_argument("--num2", type=int, required=True,
 args = parser.parse_args()
 
 print("Sum =", args.num1 + args.num2)
+"""
+Output:
+usage: lab07-challenge.py [-h] --num1 NUM1 --num2 NUM2
+lab07-challenge.py: error: the following arguments are required: --num1, --num2
+"""
