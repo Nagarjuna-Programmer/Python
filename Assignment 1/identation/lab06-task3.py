@@ -7,3 +7,8 @@ if x > 0:
     print("Positive")
 else:
     print("Non-Positive")
+     """
+    Output:
+    Enter a number: 8
+    Positive
+    """
