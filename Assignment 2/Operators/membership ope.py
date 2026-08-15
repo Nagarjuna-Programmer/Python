@@ -6,4 +6,8 @@ print(item, "is in the list:", item in fruits)
 print(item, "is not in the list:", item not in fruits)
 """
 Output:
+Enter a fruit: mango
+mango is in the list: True
+mango is not in the list: False
+
 """
