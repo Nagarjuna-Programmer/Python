@@ -8,3 +8,13 @@ for i in range(n, 0, -1):
         print("*", end=" ")
 
     print()
+
+# Output:
+# Enter number of rows: 7
+# * * * * * * * * * * * * * 
+#   * * * * * * * * * * * 
+#     * * * * * * * * * 
+#       * * * * * * * 
+#         * * * * * 
+#           * * * 
+#             * 

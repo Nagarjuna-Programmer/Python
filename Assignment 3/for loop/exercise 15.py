@@ -19,3 +19,10 @@ print("Vowels:", vowels)
 print("Consonants:", consonants)
 print("Digits:", digits)
 print("Spaces:", spaces)
+
+# Output:
+# Enter a string: Naagrjuna
+# Vowels: 4
+# Consonants: 5
+# Digits: 0
+# Spaces: 0

@@ -7,3 +7,10 @@ for i in range(n):
         else:
             print(" ", end=" ")
     print()
+
+# Output:
+# Enter size of square: 4
+# * * * * 
+# *     * 
+# *     * 
+# * * * * 

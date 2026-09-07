@@ -16,3 +16,9 @@ for num in range(start, end + 1):
 
     if is_prime:
         print(num, end=" ")
+
+# Output:
+# Enter lower limit: 10
+# Enter upper limit: 50
+# Prime numbers:
+# 11 13 17 19 23 29 31 37 41 43 47 

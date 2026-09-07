@@ -20,3 +20,8 @@ average = digit_sum / count
 
 print("Sum of digits:", digit_sum)
 print("Average of digits:", average)
+
+# Output:
+# Enter a number: 256
+# Sum of digits: 13
+# Average of digits: 4.333333333333333

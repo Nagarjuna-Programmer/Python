@@ -9,3 +9,7 @@ else:
         factorial *= i
 
     print("Factorial:", factorial)
+
+# Output:
+# Enter a number: 22
+# Factorial: 1124000727777607680000
