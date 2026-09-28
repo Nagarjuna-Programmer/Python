@@ -8,3 +8,8 @@ for x in s:
         count += 1
 
 print("Occurrences:", count)
+
+# Output:
+# Enter a string: banana
+# Enter character to count: a
+# Occurrences: 3
