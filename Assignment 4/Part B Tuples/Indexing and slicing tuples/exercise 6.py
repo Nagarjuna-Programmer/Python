@@ -6,3 +6,6 @@ if value in numbers:
     print("Value exists")
 else:
     print("Value does not exist")
+
+# Output:
+# Value exists

@@ -4,3 +4,6 @@ a, b, c, d, e = marks
 average = (a + b + c + d + e) / 5
 
 print("Average:", average)
+
+# Output:
+# Average: 80.0
